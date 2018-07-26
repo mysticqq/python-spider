@@ -1,3 +1,7 @@
+/*
+    selenium渲染库模拟浏览器爬取淘宝js渲染的网页信息
+*/
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
