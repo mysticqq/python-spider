@@ -5,6 +5,7 @@ import json
 import math
 import pymongo
 
+
 MONGO_URL='localhost'
 MONGO_DB='LaGou'
 MONGO_TABLE='数据分析'
