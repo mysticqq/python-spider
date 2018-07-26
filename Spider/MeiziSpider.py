@@ -1,3 +1,8 @@
+/*
+    bs4解析库爬取图片
+    author:mystic
+*/
+
 import requests
 from bs4 import BeautifulSoup
 import os
