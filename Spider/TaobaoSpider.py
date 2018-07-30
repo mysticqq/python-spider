@@ -1,5 +1,6 @@
 /*
     selenium渲染库模拟浏览器爬取淘宝js渲染的网页信息
+    url='https://www.taobao.com/'
 */
 
 from selenium import webdriver
